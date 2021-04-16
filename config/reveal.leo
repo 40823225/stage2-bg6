@@ -177,7 +177,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;協同題目:多功能腳踏車衝擊測試機&lt;/h2&gt;
     &lt;p&gt;
-       起源:熱愛騎腳踏車有熱愛騎腳踏車的同學，每次看到他們在騎腳踏車，就很擔心他們的腳踏車抗不住衝擊，所以才選擇做這個多功能腳踏車衝擊測試機。
+       起源:
 &lt;/p&gt;
 &lt;/section&gt;
 
