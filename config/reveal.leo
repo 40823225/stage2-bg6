@@ -23,6 +23,7 @@
 <v t="leo.20200818170636.1"><vh>設計規範</vh>
 <v t="leo.20210422231006.1"><vh>標題</vh></v>
 <v t="leo.20210422225432.1"><vh>腳踏車架衝擊測試</vh></v>
+<v t="leo.20210422232654.1"><vh>車架2</vh></v>
 <v t="leo.20210422225448.1"><vh>newHeadline</vh></v>
 <v t="leo.20210422225448.2"><vh>newHeadline</vh></v>
 <v t="leo.20210422225449.1"><vh>newHeadline</vh></v>
@@ -205,16 +206,14 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210422225432.1">&lt;section&gt;
 &lt;h3&gt;腳踏車架衝擊測試&lt;/h3&gt;
-&lt;p&gt;&lt;font size="5"&gt;參考規範
+&lt;p&gt;參考規範
 
 ISO 4210
 第六章
 4.1車架-衝擊測試(落槌衝擊)
 
 在測試治具上安裝重1公斤滾輪，如下圖，將重22.5公斤的落槌至於滾輪上，滾輪則位於前叉尾端，將落錘升起治距離"h"，釋放落錘使其錘職下落
-&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;image src="車架2.jpg" width="241" hight="306"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="598" src="車架3.jpg" width="816"&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422225448.1"></t>
 <t tx="leo.20210422225448.2"></t>
@@ -222,5 +221,9 @@ ISO 4210
 <t tx="leo.20210422231006.1">&lt;section&gt;
     &lt;h2&gt;設計規範&lt;/h2&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210422232654.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="車架2.jpg" width="482" hight="612"&gt;
+&lt;img alt="" height="598" src="車架3.jpg" width="816"&gt;&lt;/p&gt;
+&lt;section&gt;</t>
 </tnodes>
 </leo_file>
