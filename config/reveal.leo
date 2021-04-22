@@ -53,6 +53,13 @@
 <v t="leo.20210423005120.2"><vh>工程圖3</vh></v>
 <v t="leo.20210423005120.3"><vh>工程圖4</vh></v>
 </v>
+<v t="leo.20210423011416.1"><vh>爆炸圖</vh>
+<v t="leo.20210423011444.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423011444.2"><vh>newHeadline</vh></v>
+<v t="leo.20210423011714.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423011714.2"><vh>newHeadline</vh></v>
+<v t="leo.20210423011716.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -346,5 +353,30 @@ ISO 4210
 <t tx="leo.20210423005120.3">&lt;section&gt;
 &lt;p&gt;&lt;image src="工程圖4.jpg" width="800" hight="800"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210423011416.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210423011444.1">&lt;section&gt;
+&lt;h4&gt;整體爆炸圖&lt;/h4&gt;
+&lt;p&gt;&lt;image src="本體爆炸圖.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423011444.2">&lt;section&gt;
+&lt;h4&gt;傳動系統爆炸&lt;/h4&gt;
+&lt;p&gt;&lt;image src="上部爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423011714.1">&lt;section&gt;
+&lt;h4&gt;聯板爆炸圖&lt;/h4&gt;
+&lt;p&gt;&lt;image src="聯板爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423011714.2">&lt;section&gt;
+&lt;h4&gt;衝擊頭爆炸圖&lt;/h4&gt;
+&lt;p&gt;&lt;image src="衝擊頭爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423011716.1"></t>
 </tnodes>
 </leo_file>
