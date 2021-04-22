@@ -45,6 +45,14 @@
 <v t="leo.20210423001516.1"><vh>輪胎衝擊測試</vh></v>
 <v t="leo.20210423001516.2"><vh>踏板衝擊測試</vh></v>
 </v>
+<v t="leo.20210423003946.1"><vh>零件拆解</vh>
+<v t="leo.20210423004019.1"><vh>零件圖</vh></v>
+<v t="leo.20210423004029.1"><vh>BOM</vh></v>
+<v t="leo.20210423005119.1"><vh>工程圖1</vh></v>
+<v t="leo.20210423005120.1"><vh>工程圖2</vh></v>
+<v t="leo.20210423005120.2"><vh>工程圖3</vh></v>
+<v t="leo.20210423005120.3"><vh>工程圖4</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -312,6 +320,27 @@ ISO 4210
 <t tx="leo.20210423001516.2">&lt;section&gt;
 &lt;h4&gt;踏板衝擊測試&lt;/h4&gt;
 &lt;p&gt;&lt;image src="成品4.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423003946.1"></t>
+<t tx="leo.20210423004019.1">&lt;section&gt;
+&lt;h4&gt;零件圖&lt;/h4&gt;
+&lt;p&gt;&lt;image src="工程圖.png" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423004029.1">&lt;section&gt;
+&lt;h4&gt;BOM圖&lt;/h4&gt;
+&lt;p&gt;&lt;image src="BOM表.png" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423005119.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="工程圖1.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423005120.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="工程圖2.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423005120.2">&lt;section&gt;
+&lt;p&gt;&lt;image src="工程圖3.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423005120.3">&lt;section&gt;
+&lt;p&gt;&lt;image src="工程圖4.jpg" width="330" hight="444"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
