@@ -272,7 +272,7 @@ ISO 4210
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20210422235625.1">&lt;section&gt;
-&lt;p&gt;&lt;image src="手稿1.jpg" width="732" hight="570"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="手稿1.jpg" width="420" hight="594"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422235628.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="手稿2.jpg" width="732" hight="570"&gt;&lt;/p&gt;
