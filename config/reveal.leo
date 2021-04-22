@@ -303,15 +303,15 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210423001515.1">&lt;section&gt;
 &lt;h4&gt;前叉衝擊測試&lt;/h4&gt;
-&lt;p&gt;&lt;image src="成品3.jpg" width="420" hight="594"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="成品3.jpg" width="370" hight="594"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423001516.1">&lt;section&gt;
 &lt;h4&gt;輪胎衝擊測試&lt;/h4&gt;
-&lt;p&gt;&lt;image src="成品1.jpg" width="420" hight="594"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="成品1.jpg" width="370" hight="594"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423001516.2">&lt;section&gt;
 &lt;h4&gt;踏板衝擊測試&lt;/h4&gt;
-&lt;p&gt;&lt;image src="成品4.jpg" width="420" hight="594"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="成品4.jpg" width="370" hight="594"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
