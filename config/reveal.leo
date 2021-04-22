@@ -20,7 +20,7 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>封面</vh></v>
 <v t="leo.20200818170535.1"><vh>起源</vh></v>
-<v t="leo.20200818170636.1"><vh>設計規範</vh>
+<v t="leo.20200818170636.1"><vh>規範</vh>
 <v t="leo.20210422231006.1"><vh>標題</vh></v>
 <v t="leo.20210422225432.1"><vh>腳踏車架衝擊測試</vh></v>
 <v t="leo.20210422232654.1"><vh>車架2</vh></v>
@@ -31,7 +31,13 @@
 <v t="leo.20210422234113.1"><vh>登山車輪組能量吸收測試</vh></v>
 <v t="leo.20210422234115.1"><vh>輪胎</vh></v>
 </v>
-<v t="leo.20210422233658.1"><vh>製作規劃</vh></v>
+<v t="leo.20210422235520.1"><vh>手稿</vh>
+<v t="leo.20210422233658.1"><vh>設計手稿</vh></v>
+<v t="leo.20210422235625.1"><vh>手稿1</vh></v>
+<v t="leo.20210422235628.1"><vh>手稿2</vh></v>
+<v t="leo.20210422235629.1"><vh>手稿3</vh></v>
+<v t="leo.20210422235629.2"><vh>手稿4</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -244,11 +250,7 @@ ISO 4210
 &lt;p&gt;&lt;image src="前叉.jpg" width="558" hight="656"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422233658.1">&lt;section&gt;
-&lt;h3&gt;製作規劃&lt;/h3&gt;
-&lt;p&gt; 第五:找組員、討論主題&lt;/p&gt;
-&lt;p&gt; 第五、六周:繪製零件圖&lt;/p&gt;
-&lt;p&gt; 第七、八周:修改並測試&lt;/p&gt;
-&lt;p&gt; 第九周:報告&lt;/p&gt;
+&lt;h3&gt;設計手稿&lt;/h3&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422234113.1">&lt;section&gt;
 &lt;h2&gt;登山車輪組能量吸收測試&lt;/h2&gt;
@@ -264,6 +266,22 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210422234115.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="輪胎.jpg" width="732" hight="570"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422235520.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210422235625.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="手稿1.jpg" width="732" hight="570"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422235628.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="手稿2.jpg" width="732" hight="570"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422235629.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="手稿3.jpg" width="732" hight="570"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422235629.2">&lt;section&gt;
+&lt;p&gt;&lt;image src="手稿4.jpg" width="732" hight="570"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
