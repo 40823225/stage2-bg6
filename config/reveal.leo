@@ -187,9 +187,9 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;section&gt;
-&lt;h2&gt;設計規範&lt;/h2&gt;
-&lt;p&gt;&lt;/p&gt;
+<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
 
 </t>
