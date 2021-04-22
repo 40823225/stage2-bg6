@@ -199,7 +199,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20210422225432.1">&lt;section&gt;
-&lt;h3&gt;腳踏車架衝擊測試&lt;/h3&gt;
+&lt;h2&gt;腳踏車架衝擊測試&lt;/h2&gt;
 &lt;p&gt;參考規範
 
 ISO 4210
@@ -210,7 +210,7 @@ ISO 4210
 &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422225448.1">&lt;section&gt;
-&lt;h4&gt;前叉衝擊測試&lt;/h4&gt;
+&lt;h2&gt;前叉衝擊測試&lt;/h2&gt;
 &lt;p&gt;參考規範
 
 ISO 4210
@@ -221,7 +221,7 @@ ISO 4210
 &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422225448.2">&lt;section&gt;
-&lt;h5&gt;踏板衝擊測試&lt;/h5&gt;
+&lt;h2&gt;踏板衝擊測試&lt;/h2&gt;
 &lt;p&gt;參考規範
 
 ISO 4210
@@ -233,16 +233,16 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210422225449.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="踏板.jpg" width="365" hight="589"&gt;&lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20210422231006.1">&lt;section&gt;
     &lt;h2&gt;設計規範&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422232654.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="車架2.jpg" width="482" hight="612"&gt;&lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20210422233232.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="前叉.jpg" width="558" hight="656"&gt;&lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20210422233658.1">&lt;section&gt;
 &lt;h3&gt;製作規劃&lt;/h3&gt;
 &lt;p&gt; 第五:找組員、討論主題&lt;/p&gt;
@@ -251,7 +251,7 @@ ISO 4210
 &lt;p&gt; 第九周:報告&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422234113.1">&lt;section&gt;
-&lt;h6&gt;登山車輪組能量吸收測試&lt;/h6&gt;
+&lt;h2&gt;登山車輪組能量吸收測試&lt;/h2&gt;
 &lt;p&gt;參考規範
 
 ISO 4210
@@ -264,6 +264,6 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210422234115.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="輪胎.jpg" width="732" hight="570"&gt;&lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
