@@ -359,27 +359,27 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210423011444.1">&lt;section&gt;
 &lt;h4&gt;整體爆炸圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="本體爆炸圖.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="本體爆炸圖.png" width="200" hight="200"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423011444.2">&lt;section&gt;
 &lt;h4&gt;傳動系統爆炸&lt;/h4&gt;
-&lt;p&gt;&lt;image src="上部爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="上部爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423011714.1">&lt;section&gt;
 &lt;h4&gt;聯板爆炸圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="聯板爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="聯板爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423011714.2">&lt;section&gt;
 &lt;h4&gt;衝擊頭爆炸圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="衝擊頭爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="衝擊頭爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423012142.1">&lt;section&gt;
 &lt;h4&gt;車架衝擊爆炸&lt;/h4&gt;
-&lt;p&gt;&lt;image src="車架衝擊爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="車架衝擊爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
