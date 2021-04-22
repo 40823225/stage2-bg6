@@ -327,12 +327,12 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210423004019.1">&lt;section&gt;
 &lt;h4&gt;零件圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="工程圖.png" width="1500" hight="1500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖.png" width="2500" hight="2500"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423004029.1">&lt;section&gt;
 &lt;h4&gt;BOM圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="BOM表.png" width="1500" hight="1500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="BOM表.png" width="2500" hight="2500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005119.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="工程圖1.jpg" width="800" hight="800"&gt;&lt;/p&gt;
