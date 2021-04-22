@@ -44,6 +44,8 @@
 <v t="leo.20210423001515.1"><vh>前叉衝擊測試</vh></v>
 <v t="leo.20210423001516.1"><vh>輪胎衝擊測試</vh></v>
 <v t="leo.20210423001516.2"><vh>踏板衝擊測試</vh></v>
+<v t="leo.20210423013339.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423013340.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20210423003946.1"><vh>零件拆解</vh>
 <v t="leo.20210423004019.1"><vh>零件圖</vh></v>
@@ -55,11 +57,22 @@
 </v>
 <v t="leo.20210423011416.1"><vh>爆炸圖</vh>
 <v t="leo.20210423011444.1"><vh>newHeadline</vh></v>
-<v t="leo.20210423011444.2"><vh>newHeadline</vh></v>
-<v t="leo.20210423011714.1"><vh>newHeadline</vh></v>
-<v t="leo.20210423011714.2"><vh>newHeadline</vh></v>
-<v t="leo.20210423012142.1"><vh>newHeadline</vh></v>
-<v t="leo.20210423012624.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423011444.2"><vh>傳動</vh></v>
+<v t="leo.20210423011714.1"><vh>聯板</vh></v>
+<v t="leo.20210423011714.2"><vh>衝擊頭</vh></v>
+<v t="leo.20210423012142.1"><vh>車架</vh></v>
+<v t="leo.20210423012624.1"><vh>前叉</vh></v>
+<v t="leo.20210423013226.1"><vh>輪胎</vh></v>
+<v t="leo.20210423013226.2"><vh>踏板</vh></v>
+</v>
+<v t="leo.20210423013123.1"><vh>細部結構</vh>
+<v t="leo.20210423013938.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423013938.2"><vh>汽缸</vh></v>
+<v t="leo.20210423013938.3"><vh>滑軌</vh></v>
+<v t="leo.20210423013139.1"><vh>軸承</vh></v>
+<v t="leo.20210423013142.1"><vh>遮斷開關</vh></v>
+<v t="leo.20210423013142.2"><vh>光學尺</vh></v>
+<v t="leo.20210423013143.1"><vh>安全開關</vh></v>
 </v>
 </v>
 </v>
@@ -360,7 +373,7 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210423011444.1">&lt;section&gt;
 &lt;h4&gt;整體爆炸圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="本體爆炸圖.png" width="200" hight="200"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="本體爆炸圖.png" width="400" hight="350"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423011444.2">&lt;section&gt;
@@ -370,22 +383,78 @@ ISO 4210
 </t>
 <t tx="leo.20210423011714.1">&lt;section&gt;
 &lt;h4&gt;聯板爆炸圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="聯板爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="聯板爆炸.png" width="400" hight="400"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423011714.2">&lt;section&gt;
 &lt;h4&gt;衝擊頭爆炸圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="衝擊頭爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="衝擊頭爆炸.png" width="300" hight="300"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423012142.1">&lt;section&gt;
 &lt;h4&gt;車架衝擊爆炸&lt;/h4&gt;
-&lt;p&gt;&lt;image src="車架衝擊爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="車架衝擊爆炸.png" width="300" hight="300"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423012624.1">&lt;section&gt;
 &lt;h4&gt;前叉衝擊爆炸&lt;/h4&gt;
 &lt;p&gt;&lt;image src="前叉衝擊爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423013123.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210423013139.1"></t>
+<t tx="leo.20210423013142.1">&lt;section&gt;
+&lt;h4&gt;速度感測機構&lt;/h4&gt;
+&lt;p&gt;使用遮斷開關計算兩次遮斷的時間來計算衝擊前一刻的速度&lt;/p&gt;
+&lt;p&gt;&lt;image src="速度感測.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423013142.2">&lt;section&gt;
+&lt;h4&gt;光學尺測量機構&lt;/h4&gt;
+&lt;p&gt;利用光學尺來定位衝擊頭的高度及落下時的變形量&lt;/p&gt;
+&lt;p&gt;&lt;image src="光學尺.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423013143.1">&lt;section&gt;
+&lt;h4&gt;安全開關&lt;/h4&gt;
+&lt;p&gt;在升降聯板的上下極限位置放置一安全開關避免撞機&lt;/p&gt;
+&lt;p&gt;&lt;image src="安全開關.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423013226.1">&lt;section&gt;
+&lt;h4&gt;輪胎衝擊爆炸&lt;/h4&gt;
+&lt;p&gt;&lt;image src="輪胎衝擊爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423013226.2">&lt;section&gt;
+&lt;h4&gt;踏板衝擊爆炸&lt;/h4&gt;
+&lt;p&gt;&lt;image src="踏板衝擊爆炸.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423013339.1">&lt;section&gt;
+&lt;h4&gt;車架落槌治具&lt;/h4&gt;
+&lt;p&gt;&lt;image src="自行車落槌治具.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423013340.1">&lt;section&gt;
+&lt;h4&gt;前叉落槌治具&lt;/h4&gt;
+&lt;p&gt;&lt;image src="前叉落槌治具.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423013938.1">&lt;section&gt;
+&lt;h3&gt;細部解說&lt;/h3&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423013938.2">&lt;section&gt;
+&lt;h4&gt;汽缸夾持機構&lt;/h4&gt;
+&lt;p利用汽缸來聯動衝擊頭&lt;/p&gt;
+&lt;p&gt;&lt;image src="汽缸.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423013938.3">&lt;section&gt;
+&lt;h4&gt;治具滑動滑軌&lt;/h4&gt;
+&lt;p在治具底部加一滑軌，這樣在放置治具時可以輕鬆推入定位，也可以在不同治具下定位&lt;/p&gt;
+&lt;p&gt;&lt;image src="治具底座.png" width="700" hight="700"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
