@@ -517,19 +517,19 @@ ISO 4210
 </t>
 <t tx="leo.20210423021254.1">&lt;section&gt;
     &lt;p&gt;車架衝擊模擬&lt;/p&gt;
-    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tQ_pLq1T5gI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423021254.2">&lt;section&gt;
-    &lt;p&gt;設計參考&lt;/p&gt;
-    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;p&gt;前叉衝擊模擬&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vdgVH1WUilY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423021257.1">&lt;section&gt;
-    &lt;p&gt;設計參考&lt;/p&gt;
+    &lt;p&gt;輪胎衝擊模擬&lt;/p&gt;
     &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423021257.2">&lt;section&gt;
-    &lt;p&gt;設計參考&lt;/p&gt;
-    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;p&gt;踏板衝擊模擬&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E17sX3gHLTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
