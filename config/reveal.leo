@@ -20,7 +20,12 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>封面</vh></v>
 <v t="leo.20200818170535.1"><vh>起源</vh></v>
-<v t="leo.20200818170636.1"><vh>設計理念</vh></v>
+<v t="leo.20200818170636.1"><vh>設計規範</vh>
+<v t="leo.20210422225432.1"><vh>腳踏車架衝擊測試</vh></v>
+<v t="leo.20210422225448.1"><vh>newHeadline</vh></v>
+<v t="leo.20210422225448.2"><vh>newHeadline</vh></v>
+<v t="leo.20210422225449.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818170725.1"><vh>製作規劃</vh></v>
 </v>
 </v>
@@ -177,13 +182,13 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;協同題目:多功能腳踏車衝擊測試機&lt;/h2&gt;
     &lt;p&gt;
-       起源:
+       起源:我的同學中有在騎腳踏車的同學，看到他們在其叫踏車時想到之前有看過有關於腳踏車衝擊測測試機的影片，所以這次決定來嘗試設計一個這樣的測試機構
 &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
-&lt;h2&gt;設計理念&lt;/h2&gt;
+&lt;h2&gt;設計規範&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;
 
@@ -197,5 +202,21 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20210422225432.1">&lt;section&gt;
+&lt;h3&gt;腳踏車架衝擊測試&lt;/h3&gt;
+&lt;p&gt;參考規範
+
+ISO 4210
+第六章
+4.1車架-衝擊測試(落槌衝擊)
+
+在測試治具上安裝重1公斤滾輪，如下圖，將重22.5公斤的落槌至於滾輪上，滾輪則位於前叉尾端，將落錘升起治距離"h"，釋放落錘使其錘職下落
+&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="1225" src="/images/車架2.jpg" width="964"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="598" src="/images/車架3.jpg" width="816"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422225448.1"></t>
+<t tx="leo.20210422225448.2"></t>
+<t tx="leo.20210422225449.1"></t>
 </tnodes>
 </leo_file>
