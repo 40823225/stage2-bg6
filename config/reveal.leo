@@ -76,12 +76,13 @@
 <v t="leo.20210423013143.1"><vh>安全開關</vh></v>
 </v>
 <v t="leo.20210423015804.1"><vh>模擬</vh>
-<v t="leo.20210423021251.1"><vh>newHeadline</vh></v>
-<v t="leo.20210423021254.1"><vh>newHeadline</vh></v>
-<v t="leo.20210423021254.2"><vh>newHeadline</vh></v>
-<v t="leo.20210423021257.1"><vh>newHeadline</vh></v>
-<v t="leo.20210423021257.2"><vh>newHeadline</vh></v>
+<v t="leo.20210423021251.1"><vh>模擬影片</vh></v>
+<v t="leo.20210423021254.1"><vh>車架衝擊模擬</vh></v>
+<v t="leo.20210423021254.2"><vh>前叉衝擊模擬</vh></v>
+<v t="leo.20210423021257.1"><vh>輪胎衝擊模擬</vh></v>
+<v t="leo.20210423021257.2"><vh>踏板衝擊模擬</vh></v>
 </v>
+<v t="leo.20210423034150.1"><vh>pdf</vh></v>
 <v t="leo.20210423022435.1"><vh>心得</vh></v>
 <v t="leo.20210423022439.1"><vh>謝謝大家</vh></v>
 </v>
@@ -540,6 +541,10 @@ ISO 4210
 <t tx="leo.20210423022439.1">&lt;section&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;p&gt;報告到此結束&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423034150.1">&lt;section&gt;
+&lt;h4&gt;PDF&lt;/h4&gt;
+&lt;iframe data-src="stge2-bg6.pdf" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
