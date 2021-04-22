@@ -327,23 +327,24 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210423004019.1">&lt;section&gt;
 &lt;h4&gt;零件圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="工程圖.png" width="700" hight="700"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;p&gt;&lt;image src="工程圖.png" width="800" hight="800"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423004029.1">&lt;section&gt;
 &lt;h4&gt;BOM圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="BOM表.png" width="700" hight="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="BOM表.png" width="800" hight="800"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005119.1">&lt;section&gt;
-&lt;p&gt;&lt;image src="工程圖1.jpg" width="700" hight="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖1.jpg" width="800" hight="800"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005120.1">&lt;section&gt;
-&lt;p&gt;&lt;image src="工程圖2.jpg" width="700" hight="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖2.jpg" width="800" hight="800"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005120.2">&lt;section&gt;
-&lt;p&gt;&lt;image src="工程圖3.jpg" width="700" hight="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖3.jpg" width="800" hight="800"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005120.3">&lt;section&gt;
-&lt;p&gt;&lt;image src="工程圖4.jpg" width="700" hight="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖4.jpg" width="800" hight="800"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
