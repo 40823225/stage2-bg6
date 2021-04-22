@@ -75,7 +75,13 @@
 <v t="leo.20210423013142.2"><vh>光學尺</vh></v>
 <v t="leo.20210423013143.1"><vh>安全開關</vh></v>
 </v>
-<v t="leo.20210423015804.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423015804.1"><vh>模擬</vh>
+<v t="leo.20210423021251.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423021254.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423021254.2"><vh>newHeadline</vh></v>
+<v t="leo.20210423021257.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423021257.2"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -497,8 +503,31 @@ ISO 4210
 &lt;p&gt;&lt;image src="治具底座.png" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210423015804.1"></t>
+<t tx="leo.20210423015804.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 <t tx="leo.20210423020806.1">&lt;section&gt;
+    &lt;p&gt;設計參考&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="314" src="//www.youtube.com/embed/OYllHRXrVLg" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423021251.1">&lt;section&gt;
+&lt;h4&gt;模擬影片&lt;/h4&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423021254.1">&lt;section&gt;
+    &lt;p&gt;車架衝擊模擬&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423021254.2">&lt;section&gt;
+    &lt;p&gt;設計參考&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423021257.1">&lt;section&gt;
+    &lt;p&gt;設計參考&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423021257.2">&lt;section&gt;
     &lt;p&gt;設計參考&lt;/p&gt;
     &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
