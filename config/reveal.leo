@@ -210,7 +210,7 @@ ISO 4210
 &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422225448.1">&lt;section&gt;
-&lt;h3&gt;前叉衝擊測試&lt;/h3&gt;
+&lt;h4&gt;前叉衝擊測試&lt;/h4&gt;
 &lt;p&gt;參考規範
 
 ISO 4210
@@ -221,7 +221,7 @@ ISO 4210
 &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422225448.2">&lt;section&gt;
-&lt;h3&gt;踏板衝擊測試&lt;/h3&gt;
+&lt;h5&gt;踏板衝擊測試&lt;/h5&gt;
 &lt;p&gt;參考規範
 
 ISO 4210
@@ -251,7 +251,7 @@ ISO 4210
 &lt;p&gt; 第九周:報告&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422234113.1">&lt;section&gt;
-&lt;h3&gt;登山車輪組能量吸收測試&lt;/h3&gt;
+&lt;h6&gt;登山車輪組能量吸收測試&lt;/h6&gt;
 &lt;p&gt;參考規範
 
 ISO 4210
