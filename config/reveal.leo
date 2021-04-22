@@ -299,7 +299,7 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210423001513.1">&lt;section&gt;
 &lt;h4&gt;車架衝擊測試&lt;/h4&gt;
-&lt;p&gt;&lt;image src="成品2.jpg" width="420" hight="444"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="成品2.jpg" width="370" hight="444"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423001515.1">&lt;section&gt;
 &lt;h4&gt;前叉衝擊測試&lt;/h4&gt;
