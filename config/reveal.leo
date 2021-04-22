@@ -58,7 +58,7 @@
 <v t="leo.20210423011444.2"><vh>newHeadline</vh></v>
 <v t="leo.20210423011714.1"><vh>newHeadline</vh></v>
 <v t="leo.20210423011714.2"><vh>newHeadline</vh></v>
-<v t="leo.20210423011716.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423012142.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -377,6 +377,10 @@ ISO 4210
 &lt;p&gt;&lt;image src="衝擊頭爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210423011716.1"></t>
+<t tx="leo.20210423012142.1">&lt;section&gt;
+&lt;h4&gt;車架衝擊爆炸&lt;/h4&gt;
+&lt;p&gt;&lt;image src="車架衝擊爆炸.png" width="500" hight="500"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
