@@ -527,7 +527,7 @@ ISO 4210
 &lt;/section&gt;</t>
 <t tx="leo.20210423021257.1">&lt;section&gt;
     &lt;p&gt;輪胎衝擊模擬&lt;/p&gt;
-    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/n8MbdPcCThs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423021257.2">&lt;section&gt;
     &lt;p&gt;踏板衝擊模擬&lt;/p&gt;
