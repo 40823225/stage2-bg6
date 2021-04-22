@@ -38,6 +38,13 @@
 <v t="leo.20210422235629.1"><vh>手稿3</vh></v>
 <v t="leo.20210422235629.2"><vh>手稿4</vh></v>
 </v>
+<v t="leo.20210423001249.1"><vh>成品圖</vh>
+<v t="leo.20210423001318.1"><vh>設計成品</vh></v>
+<v t="leo.20210423001513.1"><vh>車架衝擊測試</vh></v>
+<v t="leo.20210423001515.1"><vh>前叉衝擊測試</vh></v>
+<v t="leo.20210423001516.1"><vh>輪胎衝擊測試</vh></v>
+<v t="leo.20210423001516.2"><vh>踏板衝擊測試</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -275,13 +282,36 @@ ISO 4210
 &lt;p&gt;&lt;image src="手稿1.jpg" width="420" hight="594"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422235628.1">&lt;section&gt;
-&lt;p&gt;&lt;image src="手稿2.jpg" width="732" hight="570"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="手稿2.jpg" width="420" hight="594""&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422235629.1">&lt;section&gt;
-&lt;p&gt;&lt;image src="手稿3.jpg" width="732" hight="570"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="手稿3.jpg" width="420" hight="594"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422235629.2">&lt;section&gt;
-&lt;p&gt;&lt;image src="手稿4.jpg" width="732" hight="570"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="手稿4.jpg" width="420" hight="594"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423001249.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210423001318.1">&lt;section&gt;
+&lt;h4&gt;設計成品&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423001513.1">&lt;section&gt;
+&lt;h4&gt;車架衝擊測試&lt;/h4&gt;
+&lt;p&gt;&lt;image src="成品2.jpg" width="420" hight="594"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423001515.1">&lt;section&gt;
+&lt;h4&gt;前叉衝擊測試&lt;/h4&gt;
+&lt;p&gt;&lt;image src="成品3.jpg" width="420" hight="594"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423001516.1">&lt;section&gt;
+&lt;h4&gt;輪胎衝擊測試&lt;/h4&gt;
+&lt;p&gt;&lt;image src="成品1.jpg" width="420" hight="594"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423001516.2">&lt;section&gt;
+&lt;h4&gt;踏板衝擊測試&lt;/h4&gt;
+&lt;p&gt;&lt;image src="成品4.jpg" width="420" hight="594"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
