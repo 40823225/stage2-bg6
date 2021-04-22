@@ -30,6 +30,7 @@
 <v t="leo.20210422225449.1"><vh>踏板</vh></v>
 <v t="leo.20210422234113.1"><vh>登山車輪組能量吸收測試</vh></v>
 <v t="leo.20210422234115.1"><vh>輪胎</vh></v>
+<v t="leo.20210423020806.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20210422235520.1"><vh>手稿</vh>
 <v t="leo.20210422233658.1"><vh>設計手稿</vh></v>
@@ -74,6 +75,7 @@
 <v t="leo.20210423013142.2"><vh>光學尺</vh></v>
 <v t="leo.20210423013143.1"><vh>安全開關</vh></v>
 </v>
+<v t="leo.20210423015804.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -163,11 +165,13 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200818165234.1">@language xml
 @tabwidth -4
-@others</t>
+@others
+</t>
 <t tx="leo.20200818165301.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="leo.20200818165413.1">&lt;body&gt;
 @others
     &lt;script src="dist/reveal.js"&gt;&lt;/script&gt;
@@ -191,7 +195,8 @@ vertical: body pane on the botton</t>
         });
 
     &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
@@ -211,14 +216,17 @@ vertical: body pane on the botton</t>
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
 &lt;h1&gt;協同產品設計實習&lt;h1&gt;
 &lt;h2&gt;stage2-bg6&lt;h2&gt;
@@ -250,7 +258,8 @@ ISO 4210
 
 在測試治具上安裝重1公斤滾輪，如下圖，將重22.5公斤的落槌至於滾輪上，滾輪則位於前叉尾端，將落錘升起治距離"h"，釋放落錘使其錘職下落
 &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422225448.1">&lt;section&gt;
 &lt;h2&gt;前叉衝擊測試&lt;/h2&gt;
 &lt;p&gt;參考規範
@@ -261,7 +270,8 @@ ISO 4210
 
 在測試治具上安裝重1公斤滾輪，如下圖，將重22.5公斤的落槌至於滾輪上，將落錘升起治距離"h"，釋放落錘使其錘職下落
 &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422225448.2">&lt;section&gt;
 &lt;h2&gt;踏板衝擊測試&lt;/h2&gt;
 &lt;p&gt;參考規範
@@ -272,22 +282,28 @@ ISO 4210
 
 將腳踏板穩固鎖緊於堅硬平面治具上，與軸心呈水平，如圖 3 所示，製作圖 2 示意的落錘，重 15 公斤，從高 400 mm 處以衝擊腳踏板中心。 備註見 TBIS 4210‐3:2016 附錄 B。
 &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422225449.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="踏板.jpg" width="365" hight="589"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422231006.1">&lt;section&gt;
     &lt;h2&gt;設計規範&lt;/h2&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422232654.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="車架2.jpg" width="482" hight="612"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422233232.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="前叉.jpg" width="558" hight="656"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422233658.1">&lt;section&gt;
-&lt;h3&gt;設計手稿&lt;/h3&gt;
-&lt;/section&gt;</t>
+&lt;h4&gt;設計手稿&lt;/h4&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422234113.1">&lt;section&gt;
 &lt;h2&gt;登山車輪組能量吸收測試&lt;/h2&gt;
 &lt;p&gt;參考規範
@@ -299,53 +315,67 @@ ISO 4210
 
 錐鉆幾何規格如下，其長度需大於輪胎寬度
 &lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422234115.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="輪胎.jpg" width="732" hight="570"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422235520.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422235625.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="手稿1.jpg" width="420" hight="594"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422235628.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="手稿2.jpg" width="420" hight="594""&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422235629.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="手稿3.jpg" width="420" hight="594"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210422235629.2">&lt;section&gt;
 &lt;p&gt;&lt;image src="手稿4.jpg" width="420" hight="594"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423001249.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423001318.1">&lt;section&gt;
 &lt;h4&gt;設計成品&lt;/h4&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423001513.1">&lt;section&gt;
 &lt;h4&gt;車架衝擊測試&lt;/h4&gt;
 &lt;p&gt;&lt;image src="成品2.jpg" width="370" hight="444"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423001515.1">&lt;section&gt;
 &lt;h4&gt;前叉衝擊測試&lt;/h4&gt;
 &lt;p&gt;&lt;image src="成品3.jpg" width="330" hight="444"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423001516.1">&lt;section&gt;
 &lt;h4&gt;輪胎衝擊測試&lt;/h4&gt;
 &lt;p&gt;&lt;image src="成品1.jpg" width="330" hight="444"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423001516.2">&lt;section&gt;
 &lt;h4&gt;踏板衝擊測試&lt;/h4&gt;
 &lt;p&gt;&lt;image src="成品4.jpg" width="330" hight="444"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423003946.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423004019.1">&lt;section&gt;
 &lt;h4&gt;零件圖&lt;/h4&gt;
 &lt;p&gt;&lt;image src="工程圖.png" width="2500" hight="2500"&gt;&lt;/p&gt;
@@ -354,23 +384,29 @@ ISO 4210
 <t tx="leo.20210423004029.1">&lt;section&gt;
 &lt;h4&gt;BOM圖&lt;/h4&gt;
 &lt;p&gt;&lt;image src="BOM表.png" width="2500" hight="2500"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423005119.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="工程圖1.jpg" width="800" hight="800"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423005120.1">&lt;section&gt;
 &lt;p&gt;&lt;image src="工程圖2.jpg" width="800" hight="800"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423005120.2">&lt;section&gt;
 &lt;p&gt;&lt;image src="工程圖3.jpg" width="800" hight="800"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423005120.3">&lt;section&gt;
 &lt;p&gt;&lt;image src="工程圖4.jpg" width="800" hight="800"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423011416.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423011444.1">&lt;section&gt;
 &lt;h4&gt;整體爆炸圖&lt;/h4&gt;
 &lt;p&gt;&lt;image src="本體爆炸圖.png" width="400" hight="350"&gt;&lt;/p&gt;
@@ -404,7 +440,8 @@ ISO 4210
 <t tx="leo.20210423013123.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423013139.1"></t>
 <t tx="leo.20210423013142.1">&lt;section&gt;
 &lt;h4&gt;速度感測機構&lt;/h4&gt;
@@ -437,25 +474,33 @@ ISO 4210
 <t tx="leo.20210423013339.1">&lt;section&gt;
 &lt;h4&gt;車架落槌治具&lt;/h4&gt;
 &lt;p&gt;&lt;image src="自行車落槌治具.jpg" width="330" hight="444"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423013340.1">&lt;section&gt;
 &lt;h4&gt;前叉落槌治具&lt;/h4&gt;
 &lt;p&gt;&lt;image src="前叉落槌治具.jpg" width="330" hight="444"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423013938.1">&lt;section&gt;
-&lt;h3&gt;細部解說&lt;/h3&gt;
-&lt;/section&gt;</t>
+&lt;h4&gt;細部解說&lt;/h4&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20210423013938.2">&lt;section&gt;
 &lt;h4&gt;汽缸夾持機構&lt;/h4&gt;
 &lt;p利用汽缸來聯動衝擊頭&lt;/p&gt;
-&lt;p&gt;&lt;image src="汽缸.png" width="350" hight="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="汽缸.png" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423013938.3">&lt;section&gt;
 &lt;h4&gt;治具滑動滑軌&lt;/h4&gt;
 &lt;p在治具底部加一滑軌，這樣在放置治具時可以輕鬆推入定位，也可以在不同治具下定位&lt;/p&gt;
-&lt;p&gt;&lt;image src="治具底座.png" width="700" hight="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="治具底座.png" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210423015804.1"></t>
+<t tx="leo.20210423020806.1">&lt;section&gt;
+    &lt;p&gt;設計參考&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="https://youtu.be/OYllHRXrVLg"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
