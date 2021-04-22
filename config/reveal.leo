@@ -213,8 +213,8 @@ ISO 4210
 
 在測試治具上安裝重1公斤滾輪，如下圖，將重22.5公斤的落槌至於滾輪上，滾輪則位於前叉尾端，將落錘升起治距離"h"，釋放落錘使其錘職下落
 &lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="1225" src="/images/車架2.jpg" width="964"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="598" src="/images/車架3.jpg" width="816"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="車架2.jpg" width="964" hight="1225"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="598" src="車架3.jpg" width="816"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422225448.1"></t>
 <t tx="leo.20210422225448.2"></t>
