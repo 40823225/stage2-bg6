@@ -24,11 +24,14 @@
 <v t="leo.20210422231006.1"><vh>標題</vh></v>
 <v t="leo.20210422225432.1"><vh>腳踏車架衝擊測試</vh></v>
 <v t="leo.20210422232654.1"><vh>車架2</vh></v>
-<v t="leo.20210422225448.1"><vh>newHeadline</vh></v>
-<v t="leo.20210422225448.2"><vh>newHeadline</vh></v>
-<v t="leo.20210422225449.1"><vh>newHeadline</vh></v>
+<v t="leo.20210422225448.1"><vh>前叉衝擊測試</vh></v>
+<v t="leo.20210422233232.1"><vh>前叉</vh></v>
+<v t="leo.20210422225448.2"><vh>踏板衝擊測試</vh></v>
+<v t="leo.20210422225449.1"><vh>踏板</vh></v>
+<v t="leo.20210422234113.1"><vh>登山車輪組能量吸收測試</vh></v>
+<v t="leo.20210422234115.1"><vh>輪胎</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>製作規劃</vh></v>
+<v t="leo.20210422233658.1"><vh>製作規劃</vh></v>
 </v>
 </v>
 </v>
@@ -195,15 +198,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-&lt;h3&gt;製作規劃&lt;/h3&gt;
-&lt;p&gt; 第五:找組員、討論主題&lt;/p&gt;
-&lt;p&gt; 第五、六周:繪製零件圖&lt;/p&gt;
-&lt;p&gt; 第七、八周:修改並測試&lt;/p&gt;
-&lt;p&gt; 第九周:報告&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
 <t tx="leo.20210422225432.1">&lt;section&gt;
 &lt;h3&gt;腳踏車架衝擊測試&lt;/h3&gt;
 &lt;p&gt;參考規範
@@ -215,15 +209,61 @@ ISO 4210
 在測試治具上安裝重1公斤滾輪，如下圖，將重22.5公斤的落槌至於滾輪上，滾輪則位於前叉尾端，將落錘升起治距離"h"，釋放落錘使其錘職下落
 &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210422225448.1"></t>
-<t tx="leo.20210422225448.2"></t>
-<t tx="leo.20210422225449.1"></t>
+<t tx="leo.20210422225448.1">&lt;section&gt;
+&lt;h3&gt;前叉衝擊測試&lt;/h3&gt;
+&lt;p&gt;參考規範
+
+ISO 4210
+第六章
+5.4 前叉-後叉衝擊測試
+
+在測試治具上安裝重1公斤滾輪，如下圖，將重22.5公斤的落槌至於滾輪上，將落錘升起治距離"h"，釋放落錘使其錘職下落
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422225448.2">&lt;section&gt;
+&lt;h3&gt;踏板衝擊測試&lt;/h3&gt;
+&lt;p&gt;參考規範
+
+ISO 4210
+第八章
+4.2 踏板－衝擊測試
+
+將腳踏板穩固鎖緊於堅硬平面治具上，與軸心呈水平，如圖 3 所示，製作圖 2 示意的落錘，重 15 公斤，從高 400 mm 處以衝擊腳踏板中心。 備註見 TBIS 4210‐3:2016 附錄 B。
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422225449.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="踏板.jpg" width="365" hight="589"&gt;&lt;/p&gt;
+&lt;section&gt;</t>
 <t tx="leo.20210422231006.1">&lt;section&gt;
     &lt;h2&gt;設計規範&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422232654.1">&lt;section&gt;
-&lt;p&gt;&lt;image src="車架2.jpg" width="482" hight="612"&gt;
-&lt;img alt="" height="598" src="車架3.jpg" width="816"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="車架2.jpg" width="482" hight="612"&gt;&lt;/p&gt;
+&lt;section&gt;</t>
+<t tx="leo.20210422233232.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="前叉.jpg" width="558" hight="656"&gt;&lt;/p&gt;
+&lt;section&gt;</t>
+<t tx="leo.20210422233658.1">&lt;section&gt;
+&lt;h3&gt;製作規劃&lt;/h3&gt;
+&lt;p&gt; 第五:找組員、討論主題&lt;/p&gt;
+&lt;p&gt; 第五、六周:繪製零件圖&lt;/p&gt;
+&lt;p&gt; 第七、八周:修改並測試&lt;/p&gt;
+&lt;p&gt; 第九周:報告&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422234113.1">&lt;section&gt;
+&lt;h3&gt;登山車輪組能量吸收測試&lt;/h3&gt;
+&lt;p&gt;參考規範
+
+ISO 4210
+第七章 附錄C
+
+依輪軸之緊固裝置支撐倫組，兵將受衝擊處語氣嘴呈90度相對位置後，以40J進行衝擊，衝擊之錐鉆須為鐵機金屬，總質量為22.5KG，落下期間允許被引導，重吉時須達到自由落體95%含以上的落下速度
+
+錐鉆幾何規格如下，其長度需大於輪胎寬度
+&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422234115.1">&lt;section&gt;
+&lt;p&gt;&lt;image src="輪胎.jpg" width="732" hight="570"&gt;&lt;/p&gt;
 &lt;section&gt;</t>
 </tnodes>
 </leo_file>
