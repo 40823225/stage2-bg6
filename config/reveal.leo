@@ -82,6 +82,8 @@
 <v t="leo.20210423021257.1"><vh>newHeadline</vh></v>
 <v t="leo.20210423021257.2"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20210423022435.1"><vh>心得</vh></v>
+<v t="leo.20210423022439.1"><vh>謝謝大家</vh></v>
 </v>
 </v>
 </v>
@@ -530,6 +532,14 @@ ISO 4210
 <t tx="leo.20210423021257.2">&lt;section&gt;
     &lt;p&gt;踏板衝擊模擬&lt;/p&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/E17sX3gHLTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423022435.1">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;我們這次由2人變成4人分組，我發現分工與意見的整合也變得更加的重要，有遇到意見分歧導致有點小吵架，我發現這個時候組長的作用就很大，要能夠從中化解分歧，並且要能夠整合意見，盡量讓大家都能夠滿意，從4人分組來看，8人分組會面臨的挑戰將會更加的艱難但這也不為是個不錯的挑戰。&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423022439.1">&lt;section&gt;
+    &lt;h1&gt;THE END&lt;/h1&gt;
+    &lt;p&gt;報告到此結束&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
