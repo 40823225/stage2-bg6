@@ -205,7 +205,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210422225432.1">&lt;section&gt;
 &lt;h3&gt;腳踏車架衝擊測試&lt;/h3&gt;
-&lt;p&gt;&lt;font size="2"&gt;參考規範
+&lt;p&gt;&lt;font size="5"&gt;參考規範
 
 ISO 4210
 第六章
