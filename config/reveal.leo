@@ -321,26 +321,29 @@ ISO 4210
 &lt;h4&gt;踏板衝擊測試&lt;/h4&gt;
 &lt;p&gt;&lt;image src="成品4.jpg" width="330" hight="444"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210423003946.1"></t>
+<t tx="leo.20210423003946.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 <t tx="leo.20210423004019.1">&lt;section&gt;
 &lt;h4&gt;零件圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="工程圖.png" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖.png" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423004029.1">&lt;section&gt;
 &lt;h4&gt;BOM圖&lt;/h4&gt;
-&lt;p&gt;&lt;image src="BOM表.png" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="BOM表.png" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005119.1">&lt;section&gt;
-&lt;p&gt;&lt;image src="工程圖1.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖1.jpg" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005120.1">&lt;section&gt;
-&lt;p&gt;&lt;image src="工程圖2.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖2.jpg" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005120.2">&lt;section&gt;
-&lt;p&gt;&lt;image src="工程圖3.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖3.jpg" width="0500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423005120.3">&lt;section&gt;
-&lt;p&gt;&lt;image src="工程圖4.jpg" width="330" hight="444"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image src="工程圖4.jpg" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
