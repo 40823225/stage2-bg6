@@ -83,6 +83,7 @@
 <v t="leo.20210423021257.2"><vh>踏板衝擊模擬</vh></v>
 </v>
 <v t="leo.20210423034150.1"><vh>pdf</vh></v>
+<v t="444.20210423123208.1"><vh>總結影片</vh></v>
 <v t="leo.20210423022435.1"><vh>心得</vh></v>
 <v t="leo.20210423022439.1"><vh>謝謝大家</vh></v>
 </v>
@@ -94,6 +95,10 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="444.20210423123208.1">&lt;section&gt;
+    &lt;p&gt;總結影片&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/v4dxNMr_tL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
