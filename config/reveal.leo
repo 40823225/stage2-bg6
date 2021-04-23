@@ -496,7 +496,7 @@ ISO 4210
 </t>
 <t tx="leo.20210423013938.2">&lt;section&gt;
 &lt;h4&gt;汽缸夾持機構&lt;/h4&gt;
-&lt;p利用汽缸來聯動衝擊頭&lt;/p&gt;
+&lt;p利用汽缸來聯動衝擊頭，並且有一近接開關來定位&lt;/p&gt;
 &lt;p&gt;&lt;image src="汽缸.png" width="500" hight="500"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
